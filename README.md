@@ -1,8 +1,17 @@
 # client-storage
 
+## Cookie
+## SessionStorage
+
+    Classe básica de gravação e leitura de cookie
+    
+## LocalStorage
+
+    Classe básica de gravação e leitura de localStorage, inserindo a validade dos dados.
+
 ## Classes de storage em client, cookie, localstorage e sessionstorage.
 
-Instanciar a classe desejada em uma variavel
+    Instanciar a classe desejada em uma variavel
 
 ### Example
     // classe instanciada e atribuida a variavel
