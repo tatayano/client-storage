@@ -1,7 +1,6 @@
 # client-storage
 
-## Cookie
-## SessionStorage
+## Cookie e SessionStorage
 
     Classe básica de gravação e leitura de cookie
     
