@@ -1,11 +1,11 @@
-client-storage
+# client-storage
 ==============
 
-Classes de storage em client, cookie, localstorage e sessionstorage.
+## Classes de storage em client, cookie, localstorage e sessionstorage.
 
 Instanciar a classe desejada em uma variavel
 
-Example: <br/>
+### Example:
 // classe instanciada e atribuida a variavel <br/>
 var cookie = new Cookie, <br/>
     local = new LocalStorage, <br/>
